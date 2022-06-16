@@ -1,2 +1,3 @@
 hi hello
-this is git repo
+how are you
+i am fine
